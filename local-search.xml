@@ -4,12 +4,45 @@
   
   
   <entry>
+    <title>测试</title>
+    <link href="/2022/10/25/%E6%B5%8B%E8%AF%95/"/>
+    <url>/2022/10/25/%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<pre><code class="hljs">测试一下标签和分类是否能正常显示</code></pre>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端开发</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>开发</tag>
+      
+      <tag>Vue</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>第一篇文章</title>
     <link href="/2022/10/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <url>/2022/10/24/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
     
     <content type="html"><![CDATA[<p>    第一次搭了个 hexo + github 博客，之后会在这上面随意更新一些内容，可能是技术上的，可能是生活上的。</p>]]></content>
     
+    
+    <categories>
+      
+      <category>生活随笔</category>
+      
+    </categories>
     
     
     <tags>
